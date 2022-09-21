@@ -1,6 +1,6 @@
 # statisticka_analyza_dat_cviceni / Statistical data analysis
 
-## Install miniconda
+### Install miniconda
 https://docs.conda.io/en/latest/miniconda.html
 <br>
 ### Create conda enviroment
