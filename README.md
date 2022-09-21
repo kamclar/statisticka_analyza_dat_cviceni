@@ -1,7 +1,6 @@
 # statisticka_analyza_dat_cviceni / Statistical data analysis
-<br>
-<br>
-### Install miniconda
+
+## Install miniconda
 https://docs.conda.io/en/latest/miniconda.html
 <br>
 ### Create conda enviroment
@@ -14,5 +13,5 @@ conda install -c r r-irkernel
 <br>
 conda activate statistics
 <br>
-jupyter notebook 
-![Screenshot](select_r_kernel.png)
+write <jupyter notebook> into commandline to run the notebook 
+![select kernel](select_r_kernel.png)
