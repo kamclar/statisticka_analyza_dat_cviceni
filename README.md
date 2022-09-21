@@ -13,5 +13,5 @@ conda install -c r r-irkernel
 <br>
 conda activate statistics
 <br>
-write <jupyter notebook> into commandline to run the notebook 
+write <jupyter notebook> into commandline, open notebooks Homepage following the terminal instruction and create new notebook with the R kernel
 ![select kernel](select_r_kernel.png)
