@@ -1,4 +1,4 @@
-   group weight
+group weight
 Woman   38.9
 Woman   61.2
 Woman   73.3
