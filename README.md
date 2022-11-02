@@ -16,3 +16,7 @@ conda install -c r r-irkernel
 write "jupyter notebook" into commandline, open notebooks Homepage following the terminal instruction and create new notebook with the R kernel
 <br>
 ![select kernel](select_r_kernel.png)
+<br>
+<br>
+### Google Colab notebook in R language
+https://colab.to/r
